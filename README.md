@@ -7,3 +7,7 @@ Some description.
 
 
 added some new changes
+
+## local dev
+
+1. open index.html in your browser
